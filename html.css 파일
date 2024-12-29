@@ -195,9 +195,9 @@
       }
 
       .content p:not(:first-of-type) {
-        padding-left: 50px;
-        padding-right: 50px;
-        text-indent: 25px;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        text-indent: 2rem;
         line-height: 2;
       }
 
